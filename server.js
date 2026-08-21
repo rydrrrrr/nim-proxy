@@ -38,9 +38,9 @@ const MODEL_MAPPING = {
   'gemini-pro': 'moonshotai/kimi-k2.5',
   'gemini-proer': 'moonshotai/kimi-k2.6',
   'ds4': 'deepseek-ai/deepseek-v4-pro',
-  'dsf': 'deepseek-ai/deepseek-v4-flash',
+  'dsf': 'deepseek-ai/deepseek-v4-flash-0731',
   'qwen-3.5': 'qwen/qwen3.5-122b-a10b',
-  'glm': 'z-ai/glm-5.2',
+  'glm': 'z-ai/glm-5.3',
   'gemini-proest': 'moonshotai/kimi-k2-thinking',
   'gemma': 'google/gemma-4-31b-it'
 };
