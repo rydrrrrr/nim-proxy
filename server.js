@@ -38,7 +38,7 @@ const MODEL_MAPPING = {
   'gemini-pro': 'moonshotai/kimi-k2.5',
   'gemini-proer': 'moonshotai/kimi-k2.6',
   'ds4': 'deepseek-ai/deepseek-v4-pro-0813',
-  'dsf': 'deepseek-ai/deepseek-v4-flash-0731',
+  'dsf': 'deepseek-ai/deepseek-v4.1-flash',
   'qwen-3.5': 'qwen/qwen3.5-122b-a10b',
   'glm': 'z-ai/glm-5.3',
   'gemini-proest': 'moonshotai/kimi-k3',
