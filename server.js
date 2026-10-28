@@ -41,6 +41,7 @@ const MODEL_MAPPING = {
   'dsf': 'deepseek-ai/deepseek-v4.1-flash',
   'qwen-3.5': 'qwen/qwen3.5-122b-a10b',
   'glm': 'z-ai/glm-5.3',
+  'glmf': 'z-ai/glm-5.3-flash',
   'gemini-proest': 'moonshotai/kimi-k3',
   'gemma': 'google/gemma-4-31b-it'
 };
