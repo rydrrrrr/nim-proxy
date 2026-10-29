@@ -43,7 +43,10 @@ const MODEL_MAPPING = {
   'glm': 'z-ai/glm-5.3',
   'glmf': 'z-ai/glm-5.3-flash',
   'gemini-proest': 'moonshotai/kimi-k3',
-  'gemma': 'google/gemma-4-31b-it'
+  'gemma': 'google/gemma-4-31b-it',
+  'nemo': 'nvidia/nemotron-3.5-bolt-e4b',
+  'mini': 'minimaxai/minimax-m3.1-flash',
+  'step': 'stepfun-ai/step-5-preview',
 };
 
 // Root endpoint
